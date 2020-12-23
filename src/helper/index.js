@@ -40,9 +40,6 @@ export const listField = 'list'; // 名单
 export function conversionCategoryName(key) {
   let name = '';
   switch (key) {
-    case 'firstPrize':
-      name = '一等奖';
-      break;
     default:
       break;
   }
