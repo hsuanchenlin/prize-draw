@@ -1,5 +1,3 @@
-## 年度抽獎
-
-[演示地址](https://vitozyf.github.io/lucky-draw/index.html#/?tdsourcetag=s_pctim_aiomsg)
-
-## 使用說明
+原始
+https://github.com/vitozyf/lucky-draw 
+改用繁體 修ui 跟幾個小bug
